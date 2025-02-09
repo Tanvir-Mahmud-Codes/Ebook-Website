@@ -1,0 +1,12 @@
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\bin\Debug\net8.0\Ebook.Utility.deps.json
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\bin\Debug\net8.0\Ebook.Utility.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\bin\Debug\net8.0\Ebook.Utility.pdb
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.AssemblyInfoInputs.cache
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.AssemblyInfo.cs
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.csproj.CoreCompileInputs.cache
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\refint\Ebook.Utility.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.pdb
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\ref\Ebook.Utility.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Utility\obj\Debug\net8.0\Ebook.Utility.csproj.AssemblyReference.cache
