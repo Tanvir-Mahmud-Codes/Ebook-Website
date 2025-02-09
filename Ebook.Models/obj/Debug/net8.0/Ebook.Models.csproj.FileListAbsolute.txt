@@ -1,0 +1,12 @@
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\bin\Debug\net8.0\Ebook.Models.deps.json
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\bin\Debug\net8.0\Ebook.Models.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\bin\Debug\net8.0\Ebook.Models.pdb
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.AssemblyInfoInputs.cache
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.AssemblyInfo.cs
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.csproj.CoreCompileInputs.cache
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\refint\Ebook.Models.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.pdb
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\ref\Ebook.Models.dll
+D:\Documents\C#\Ebook\Ebook\Ebook.Models\obj\Debug\net8.0\Ebook.Models.csproj.AssemblyReference.cache
